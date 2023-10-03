@@ -34,7 +34,7 @@ I'm a Computer Engineering graduate from the University of Toronto with a passio
 
 - Conceptualized, redesigned, and built a new website for the Blue & Gold Committee at the University of Toronto.
 - Developed an automated deployment system for the website, ensuring future updates are easily manageable by non-technical maintainers.
-- The website is accessible [here](blueandgold.skule.ca), though I no longer maintain it.
+- The website is accessible [here](https://blueandgold.skule.ca), though I no longer maintain it.
 
 ## Hobbies
 
