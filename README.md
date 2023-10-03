@@ -1,6 +1,6 @@
 # Zachary Jager LaPointe
 
-[LinkedIn](https://www.linkedin.com/in/zachary-jager-lapointe/) | [GitHub](https://github.com/zbotpoint) | Email: zachary.lapointe@pm.me
+[LinkedIn](https://www.linkedin.com/in/zachary-jager-lapointe/) | [GitHub](https://github.com/zbotpoint) | [Email](mailto:zachary.lapointe@pm.me)
 
 ## About Me
 
@@ -9,8 +9,8 @@ I'm a Computer Engineering graduate from the University of Toronto with a passio
 ## Skills
 
 - **Languages:** C, C++, Python, C#, Java
-- **Web Development:** HTML/CSS, JavaScript/TypeScript
-- **Hardware:** Verilog, ARM Assembler, Arduino, Raspberry Pi
+- **Web Development:** HTML/CSS, JavaScript/TypeScript, React
+- **Hardware:** Arduino, Raspberry Pi, Verilog, ARM Assembler
 
 ## Projects
 
