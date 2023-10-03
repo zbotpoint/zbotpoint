@@ -30,8 +30,6 @@ I'm a Computer Engineering graduate from the University of Toronto with a passio
 - Implemented Google's Vision API to read an image of the receipt and utilized Interac's e-Transfer API to automatically send invoices to dinner attendees.
 - Winner of McHacks 6 at McGill University.
 
-This project was part of McHacks 6 at McGill University, showcasing my skills in backend development and API integration.
-
 ## Hobbies
 
 - Inner tube water polo, rock climbing, hiking, canoeing, and kayaking.
