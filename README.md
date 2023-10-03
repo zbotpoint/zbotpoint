@@ -30,6 +30,12 @@ I'm a Computer Engineering graduate from the University of Toronto with a passio
 - Implemented Google's Vision API to read an image of the receipt and utilized Interac's e-Transfer API to automatically send invoices to dinner attendees.
 - Winner of McHacks 6 at McGill University.
 
+### Blue & Gold Committee Website Redesign
+
+- Conceptualized, redesigned, and built a new website for the Blue & Gold Committee at the University of Toronto.
+- Developed an automated deployment system for the website, ensuring future updates are easily manageable by non-technical maintainers.
+- The website is accessible [here](blueandgold.skule.ca), though I no longer maintain it.
+
 ## Hobbies
 
 - Inner tube water polo, rock climbing, hiking, canoeing, and kayaking.
