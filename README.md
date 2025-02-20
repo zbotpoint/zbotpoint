@@ -15,7 +15,7 @@ I'm a Computer Engineering graduate from the University of Toronto with a passio
 - Improved existing on-chain and off-chain network infrastructure
 - Designed websites for new network initiatives
 
-- ### GPU Virtualization [@AMD](https://amd.com/) (2020&ndash;2024)
+### GPU Virtualization [@AMD](https://amd.com/) (2020&ndash;2024)
 - Developed custom device driver releases for a major cloud service provider
 - Ensured product compliance with customer technical requirements and quality standards
 
